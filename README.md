@@ -11,6 +11,9 @@ The HR department faces the following challenges:
 2. Analyzing patterns around work from home and sick leave to better understand employee behavior.
 3. Understanding the sick leave pattern to take proactive measures, such as vaccination shots, especially during common flu seasons.
 
+# ||Screenshots of the PowerBI report are included for a quick preview of my work ||
+
+
 ### Data Description
 
 The dataset includes the following types of leave and work statuses:
